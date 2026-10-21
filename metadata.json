@@ -1,0 +1,6 @@
+{
+  "name": "Ari - Artjom Alihodzin Voice CV",
+  "description": "Real-time AI voice conversation with Ari, answering questions about Artjom Alihodzin's sales leadership, education, and career.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
